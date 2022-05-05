@@ -3,7 +3,7 @@ Oliver Taback, Marek Codron, Jacob Rivett, Jose, 2022 Spring, MECA 482
 
 
 # Table of Contents
- ## 1. Introduction
+  1. Introduction
   2. Control_System_Design
   3. Math_Modeling
   4. Simulations

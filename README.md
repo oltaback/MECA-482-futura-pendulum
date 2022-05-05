@@ -1,5 +1,4 @@
 # MECA-482-futura-pendulum
-MECA 482 Final Project: Futura Pendulum
 Oliver Taback, Marek Codron, JAcob Rivett, Jose, 2022 Spring, MECA 482
 
 

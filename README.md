@@ -1,5 +1,5 @@
 # MECA-482-furuta-pendulum
-Oliver Taback, Marek Codron, JAcob Rivett, Jose, 2022 Spring, MECA 482
+Oliver Taback, Marek Codron, Jacob Rivett, Jose, 2022 Spring, MECA 482
 
 
 # Table of Contents

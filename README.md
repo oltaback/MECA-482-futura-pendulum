@@ -1,6 +1,12 @@
 # MECA-482-furuta-pendulum
 Oliver Taback, Marek Codron, Jacob Rivett, Jose, 2022 Spring, MECA 482
 
+img {
+    max-width: 75%;
+    max-height: 75%;
+}
+
+
 
 # Table of Contents
   1. Introduction
@@ -19,13 +25,6 @@ Primarily, operational and logical viewpoints are created to theoritcally detere
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/103209385/167045659-cdef8475-536e-4d77-bc10-739ca3911265.jpg" /></div>
 
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/92506151/167045713-a3f7c457-aff7-4e09-a6a6-e6baab5431ee.png" /></div>
-
-
-![Furuta Pendulum Operational View Points](https://user-images.githubusercontent.com/103209385/167045659-cdef8475-536e-4d77-bc10-739ca3911265.jpg)
-
-
-
-![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167045713-a3f7c457-aff7-4e09-a6a6-e6baab5431ee.png)
 
 
 # 3. Math Modeling  

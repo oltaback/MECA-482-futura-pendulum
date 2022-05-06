@@ -16,11 +16,12 @@ The Furuta Pendulum consists of a driven arm rotating horizontally, and a pendul
 # 2. Control System Design 
 Primarily, operational and logical viewpoints are created to theoritcally deteremine the placement of all components before physically building the model. These view points are widely used across control system archecture design. The operational view point essentially shows what happens, and were within the system this process occurs. The figure below describes the operational viewpoint for this control system archetecture. In this viewpoint, two sensors are placed on the each arm. One of the horizontally rotating arm, and one on the vertically rotating arm. The data taken from these axises of rotation is essential to the mathematical model. 
 
+![2022-05-05 17_18_08-Calculator](https://user-images.githubusercontent.com/92506151/167046992-bf899993-4958-47c3-834a-b139afa2952f.png)
+
+![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167046988-7cb23bf9-6236-4fd3-9ce3-972cc62c594f.png)
 
 
-![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167046862-0fa89505-0372-47ce-9d3e-b76fac1c63bb.png = 250x)
 
-![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167045713-a3f7c457-aff7-4e09-a6a6-e6baab5431ee.png = 250x)
 
 # 3. Math Modeling  
 

@@ -23,8 +23,8 @@ Primarily, operational and logical viewpoints are created to theoritcally detere
 
 
 
-# 3. Math Modeling  
-
+# 3. Math Modeling
+The model of the furuta (inverted rotational) pendulum was determined through the langrangian method. To this end, the team determined the total potential and kinetic energy of the two arms. Given the two arm system, it was determined that the system has two degrees of freedom.
 
 
 # 4. Simulation

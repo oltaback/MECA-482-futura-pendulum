@@ -16,19 +16,21 @@ The Furuta Pendulum consists of a driven arm rotating horizontally, and a pendul
 # 2. Control System Design 
 Primarily, operational and logical viewpoints are created to theoritcally deteremine the placement of all components before physically building the model. These view points are widely used across control system archecture design. The operational view point essentially shows what happens, and were within the system this process occurs. The figure below describes the operational viewpoint for this control system archetecture. In this viewpoint, two sensors are placed on the each arm. One of the horizontally rotating arm, and one on the vertically rotating arm. The data taken from these axises of rotation is essential to the mathematical model. 
 
-![2022-05-05 17_18_08-Calculator](https://user-images.githubusercontent.com/92506151/167046992-bf899993-4958-47c3-834a-b139afa2952f.png)
 
-![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167046988-7cb23bf9-6236-4fd3-9ce3-972cc62c594f.png)
-
+![Furuta Pendulum Operational View Points](https://user-images.githubusercontent.com/103209385/167045659-cdef8475-536e-4d77-bc10-739ca3911265.jpg)
 
 
+Data analyization of the system is accomplished through logical (functional) diagram. The logical diagram shwon in the figure below describes the relationship between the of different data varibales captured within this control system. These diagrams can also give insight into different mechanism neccessary for system operation. The mechanisms are subject, but int limited to power sources, sensors, motors, etc. Overall, the two diagrams dispayed provide a new understanding of the system model.
+![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167045713-a3f7c457-aff7-4e09-a6a6-e6baab5431ee.png)
 
-# 3. Math Modeling
-The model of the furuta (inverted rotational) pendulum was determined through the langrangian method. To this end, the team determined the total potential and kinetic energy of the two arms. Given the two arm system, it was determined that the system has two degrees of freedom.
+
+# 3. Math Modeling  
+
 
 
 # 4. Simulation
 
+For this project the simulation utilizes a close-loop system. 
 # 5. Presentation
 
 # 6. References 

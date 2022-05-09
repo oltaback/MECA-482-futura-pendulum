@@ -22,9 +22,9 @@ Deliverables:
   - Open designed control system to link to Coppelia Simu via MATLAB program
 
 Project contains:
-  - Matlab Software
-  - Simulink:
-  - Coppelia:
+  - Matlab Software: responsible for Coppelia and simulink initalization. Displays initial state-space calucaltions and derivation equations necessary to setup control system
+  - Simulink: contains mathematical model of the control system and its purpose for functional use
+  - Coppelia: physicis simulation software that will simulate the control system working on theoritical hardware. Essentially varifying whether the control sstem functions properly 
 
 # 2. Control System Design 
 Primarily, operational and logical viewpoints are created to theoritcally deteremine the placement of all components before physically building the model. These view points are widely used across control system archecture design. The operational view point essentially shows what happens, and were within the system this process occurs. The figure below describes the operational viewpoint for this control system archetecture. In this viewpoint, two sensors are placed on the each arm. One of the horizontally rotating arm, and one on the vertically rotating arm. The data taken from these axises of rotation is essential to the mathematical model. 

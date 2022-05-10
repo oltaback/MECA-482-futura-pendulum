@@ -34,7 +34,8 @@ Primarily, operational and logical viewpoints are created to theoritcally detere
 
 The figure below displays the system architecture being analyized in this project. It shows the movemement of the system and its purpose at scale. 
 
-![image](https://user-images.githubusercontent.com/103209385/167540782-53753383-8139-4970-9887-0d97f9d7a795.png)
+![image](https://user-images.githubusercontent.com/103209385/167541313-5af5c753-19fa-494f-922a-f64d5a656e25.png)
+
 
 
 Data analyization of the system is accomplished through logical (functional) diagram. The logical diagram shwon in the figure below describes the relationship between the of different data varibales captured within this control system. These diagrams can also give insight into different mechanism neccessary for system operation. The mechanisms are subject, but int limited to power sources, sensors, motors, etc. Overall, the two diagrams dispayed provide a new understanding of the system model.

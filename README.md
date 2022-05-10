@@ -51,12 +51,16 @@ The figure below displays an image of the control system theory behind this proj
 
 
 # 3. Math Modeling  
+The matlab code displayed below took heavy influence from the Quanser resource provided. Initally, the base model constraints of teh system, motor and electronics were impleneted. Then, these control variables were theoritically suppose to be tied to simulink and coppelia models to run the control system. However, the errors in our intial matlab code prevented the group from expanding on these results. The code is displayed in the image below. 
 
 
 
 # 4. Simulation
+Ideally, the simulation would have produced underdamping charactertics on the follwoing graphs displayed below. The underdamping trends would have shown stabilization of our system, primarily of the vertical pendulum arm operating in the up-right positiion. The figures below show the pole map where the underdamping characteristics should have been displayed.
 
-For this project the simulation utilizes a close-loop system. 
+![image](https://user-images.githubusercontent.com/103209385/167546601-43c7895e-0d3a-4cc7-8ee6-00f1180215cd.png)
+
+
 # 5. Presentation
 
 # 6. Results 

@@ -58,7 +58,8 @@ The matlab code displayed below took heavy influence from the Quanser resource p
 # 4. Simulation
 Ideally, the simulation would have produced underdamping charactertics on the follwoing graphs displayed below. The underdamping trends would have shown stabilization of our system, primarily of the vertical pendulum arm operating in the up-right positiion. The figures below show the pole map where the underdamping characteristics should have been displayed.
 
-![image](https://user-images.githubusercontent.com/103209385/167546601-43c7895e-0d3a-4cc7-8ee6-00f1180215cd.png)
+![image](https://user-images.githubusercontent.com/103209385/167546674-69ce93a7-458b-4c5a-a206-a5f437cf4a68.png)
+
 
 
 # 5. Presentation

@@ -37,6 +37,11 @@ Data analyization of the system is accomplished through logical (functional) dia
 ![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167045713-a3f7c457-aff7-4e09-a6a6-e6baab5431ee.png)
 
 
+The figure below displays an image of the control system theory behind this project. It highlights the basic anatomy behind the controller and its functionality.
+![image](https://user-images.githubusercontent.com/103209385/167540489-10cbdfe6-5e80-4cb7-8394-fd5e4566cc8f.png)
+
+
+
 # 3. Math Modeling  
 
 

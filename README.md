@@ -53,6 +53,10 @@ The figure below displays an image of the control system theory behind this proj
 # 3. Math Modeling  
 The matlab code displayed below took heavy influence from the Quanser resource provided. Initally, the base model constraints of teh system, motor and electronics were impleneted. Then, these control variables were theoritically suppose to be tied to simulink and coppelia models to run the control system. However, the errors in our intial matlab code prevented the group from expanding on these results. The code is displayed in the image below. 
 
+The figure below displays our simulink that coincides with our writen matlab code. 
+
+![image](https://user-images.githubusercontent.com/103209385/167558207-1916dad6-f06a-4ce7-a109-fccf4dbc34c6.png)
+
 
 
 # 4. Simulation

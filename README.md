@@ -38,9 +38,10 @@ The figure below displays the system architecture being analyized in this projec
 
 
 
-Data analyization of the system is accomplished through logical (functional) diagram. The logical diagram shwon in the figure below describes the relationship between the of different data varibales captured within this control system. These diagrams can also give insight into different mechanism neccessary for system operation. The mechanisms are subject, but int limited to power sources, sensors, motors, etc. Overall, the two diagrams dispayed provide a new understanding of the system model.
-![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167045713-a3f7c457-aff7-4e09-a6a6-e6baab5431ee.png)
 
+Data analyization of the system is accomplished through logical (functional) diagram. The logical diagram shwon in the figure below describes the relationship between the of different data varibales captured within this control system. These diagrams can also give insight into different mechanism neccessary for system operation. The mechanisms are subject, but int limited to power sources, sensors, motors, etc. Overall, the two diagrams dispayed provide a new understanding of the system model.
+
+![Logical Diagram ](https://user-images.githubusercontent.com/103209385/167544915-35f39dcf-457b-4889-969b-233f9d1e9a9e.jpg)
 
 The figure below displays an image of the control system theory behind this project. It highlights the basic anatomy behind the controller and its functionality.
 

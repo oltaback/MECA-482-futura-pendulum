@@ -38,7 +38,8 @@ Data analyization of the system is accomplished through logical (functional) dia
 
 
 The figure below displays an image of the control system theory behind this project. It highlights the basic anatomy behind the controller and its functionality.
-![image](https://user-images.githubusercontent.com/103209385/167540489-10cbdfe6-5e80-4cb7-8394-fd5e4566cc8f.png)
+
+                ![image](https://user-images.githubusercontent.com/103209385/167540489-10cbdfe6-5e80-4cb7-8394-fd5e4566cc8f.png)
 
 
 

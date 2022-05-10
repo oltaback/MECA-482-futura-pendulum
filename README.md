@@ -32,6 +32,10 @@ Primarily, operational and logical viewpoints are created to theoritcally detere
 
 ![Furuta Pendulum Operational View Points](https://user-images.githubusercontent.com/103209385/167045659-cdef8475-536e-4d77-bc10-739ca3911265.jpg)
 
+The figure below displays the system architecture being analyized in this project. It shows te movememnt of the system and its purpose at scale. 
+
+![image](https://user-images.githubusercontent.com/103209385/167540782-53753383-8139-4970-9887-0d97f9d7a795.png)
+
 
 Data analyization of the system is accomplished through logical (functional) diagram. The logical diagram shwon in the figure below describes the relationship between the of different data varibales captured within this control system. These diagrams can also give insight into different mechanism neccessary for system operation. The mechanisms are subject, but int limited to power sources, sensors, motors, etc. Overall, the two diagrams dispayed provide a new understanding of the system model.
 ![2022-05-05 17_00_04-Logical Diagram - diagrams net](https://user-images.githubusercontent.com/92506151/167045713-a3f7c457-aff7-4e09-a6a6-e6baab5431ee.png)
@@ -39,7 +43,7 @@ Data analyization of the system is accomplished through logical (functional) dia
 
 The figure below displays an image of the control system theory behind this project. It highlights the basic anatomy behind the controller and its functionality.
 
-                ![image](https://user-images.githubusercontent.com/103209385/167540489-10cbdfe6-5e80-4cb7-8394-fd5e4566cc8f.png)
+![image](https://user-images.githubusercontent.com/103209385/167540489-10cbdfe6-5e80-4cb7-8394-fd5e4566cc8f.png)
 
 
 

@@ -29,9 +29,9 @@ Project contains:
 # 2. Control System Design 
 Primarily, operational and logical viewpoints are created to theoritcally deteremine the placement of all components before physically building the model. These view points are widely used across control system archecture design. The operational view point essentially shows what happens, and were within the system this process occurs. The figure below describes the operational viewpoint for this control system archetecture. In this viewpoint, two sensors are placed on the each arm. One of the horizontally rotating arm, and one on the vertically rotating arm. The data taken from these axises of rotation is essential to the mathematical model. 
 
-<center>
+
 ![Furuta Pendulum Operational View Points (1)](https://user-images.githubusercontent.com/103209385/167545141-1b77b99e-ccc9-4f41-b6cd-6e033509dcbe.jpg)
- <center>
+
 
 The figure below displays the system architecture being analyized in this project. It shows the movemement of the system and its purpose at scale. 
 

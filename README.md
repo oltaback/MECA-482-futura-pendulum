@@ -58,7 +58,7 @@ For this project the simulation utilizes a close-loop system.
 # 5. Presentation
 
 # 6. Results 
-Unfortunately, our project came to halut. We had continous errors with our matlab code we were unable to solve. The transisiton from matlab to Coppellia gave the group trouble. If our errors and matlab had been proveeeded, we believe our control system would have been successful. The errors specified is displayed in the image below.
+Unfortunately, our project came to halut. We had continous errors with our matlab code we were unable to solve. The transisiton from matlab to Coppellia gave the group trouble. If our errors and matlab had been deteremined, we believe our control system would have been successful. The errors specified is displayed in the image below.
 
 ![image](https://user-images.githubusercontent.com/103209385/167542106-a03d5fad-ec67-4f57-ac86-bd4fc81dfb6b.png)
 

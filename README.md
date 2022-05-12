@@ -33,9 +33,9 @@ Primarily, operational and logical viewpoints are created to theoritcally detere
 
 The figure below displays the system architecture being analyized in this project. It shows the movemement of the system and its purpose at scale. 
 
-<p align = "center">
-  <img scr =![image](https://user-images.githubusercontent.com/103209385/167541313-5af5c753-19fa-494f-922a-f64d5a656e25.png) style = "margin:10px 10px">
-</p>
+
+![image](https://user-images.githubusercontent.com/103209385/167541313-5af5c753-19fa-494f-922a-f64d5a656e25.png)
+
 
 
 

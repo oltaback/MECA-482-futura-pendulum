@@ -13,7 +13,7 @@ Oliver Taback, Marek Codron, Jacob Rivett, Jose, 2022 Spring, MECA 482
 # 1. Introduction 
 The Furuta Pendulum consists of a driven arm rotating horizontally, and a pendulum attached to the arm that operates freely in the vertically. The mechanism is designed to be unconstrained pneumatically, and nonlinear due to centrifugal and gravitational forces on the coupler allowing a variety of different movements to occur. This project will examine creating a test platform in a control system, that will in turn, efficiently test this model fluidly, and at a low cost. The deliverable sand desgin requirements for this project are stated below.
 
-The goal of this project is to produce a control system that will balance the pendulumarm in the upright position during the testing phase. A motor placed on the base piece of the pendulum possesses the ability to direct movement. Keeping these variables in consideration, the control system will essentially force the vertical pendulum arm to balance. 
+The goal of this project is to produce a control system that will balance the pendulum arm in the upright position during the testing phase. A motor placed on the base piece of the pendulum possesses the ability to direct movement. Keeping these variables in consideration, the control system will essentially force the vertical pendulum arm to balance. 
 
 Deliverables: 
   - Mathematical Model of system designed in MATLAB
@@ -22,12 +22,12 @@ Deliverables:
   - Open designed control system to link to Coppelia Simu via MATLAB program
 
 Project contains:
-  - Matlab Software: responsible for Coppelia and simulink initalization. Displays initial state-space calucaltions and derivation equations necessary to setup control system
+  - MATLAB Software: responsible for Coppelia and simulink initalization. Displays initial state-space calucaltions and derivation equations necessary to setup control system
   - Simulink: contains mathematical model of the control system and its purpose for functional use
   - Coppelia: physicis simulation software that will simulate the control system working on theoritical hardware. Essentially varifying whether the control sstem functions properly 
 
 # 2. Control System Design 
-Primarily, operational and logical viewpoints are created to theoritcally deteremine the placement of all components before physically building the model. These view points are widely used across control system archecture design. The operational view point essentially shows what happens, and were within the system this process occurs. The figure below describes the operational viewpoint for this control system archetecture. In this viewpoint, two sensors are placed on the each arm. One of the horizontally rotating arm, and one on the vertically rotating arm. The data taken from these axises of rotation is essential to the mathematical model. 
+Primarily, operational and logical viewpoints are created to theoretically deteremine the placement of all components before physically building the model. These view points are widely used across control system archecture design. The operational view point essentially shows what happens, and were within the system this process occurs. The figure below describes the operational viewpoint for this control system archetecture. In this viewpoint, two sensors are placed on the each arm. One of the horizontally rotating arm, and one on the vertically rotating arm. The data taken from these axises of rotation is essential to the mathematical model. 
 
 ![Furuta Pendulum Operational View Points (2)](https://user-images.githubusercontent.com/103209385/168148443-cedd4c9c-813b-49d3-a2b3-9fe3d36d0f1d.jpg) 
 
@@ -52,7 +52,7 @@ The figure below displays an image of the control system theory behind this proj
 
 
 # 3. Math Modeling  
-The matlab code displayed below took heavy influence from the Quanser resource provided. Initally, the base model constraints of teh system, motor and electronics were impleneted. Then, these control variables were theoritically suppose to be tied to simulink and coppelia models to run the control system. However, the errors in our intial matlab code prevented the group from expanding on these results. The code is displayed in the image below. 
+The MATLAB code displayed below took heavy influence from the Quanser resource provided. Initally, the base model constraints of the system, motor and electronics were impleneted. Then, these control variables were theoretically suppose to be tied to simulink and coppelia models to run the control system. However, the errors in our intial matlab code prevented the group from expanding on these results. The code is displayed in the image below. 
 
 The figure below displays our simulink that coincides with our writen matlab code. 
 
@@ -353,7 +353,7 @@ Ideally, the simulation would have produced underdamping charactertics on the fo
 # 5. Presentation
 
 # 6. Results 
-Unfortunately, our project came to halut. We had continous errors with our matlab code we were unable to solve. The transisiton from matlab to Coppellia gave the group trouble. If our errors and matlab had been deteremined, we believe our control system would have been successful. The errors specified is displayed in the image below.
+Unfortunately, our project came to hault. We had continous errors with our matlab code we were unable to solve. The transisiton from matlab to Coppellia gave the group trouble. If our errors and matlab had been deteremined, we believe our control system would have been successful. The errors specified is displayed in the image below.
 
 ![image](https://user-images.githubusercontent.com/103209385/167542106-a03d5fad-ec67-4f57-ac86-bd4fc81dfb6b.png)
 

@@ -71,9 +71,15 @@ Ideally, the simulation would have produced underdamping charactertics on the fo
 # 5. Presentation
 
 # 6. Results 
+
 Unfortunately, our project came to halut. We had continous errors with our matlab code we were unable to solve. The transisiton from matlab to Coppellia gave the group trouble. If our errors and matlab had been deteremined, we believe our control system would have been successful. The errors specified is displayed in the image below.
 
 ![image](https://user-images.githubusercontent.com/103209385/168521889-3adc1a5d-74c7-4510-9e44-4cc68c8f61fe.png)
+
+Although errors were experienced, the matlab code sucesfully determines poles, desired poles, control gain, and more. This data is specified in the image displayed below.
+
+![image](https://user-images.githubusercontent.com/103209385/168522107-ad7da509-16d1-4dad-9f08-2d7d96e56b5f.png)
+
 
 
 # 7. References 

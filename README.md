@@ -70,6 +70,8 @@ Ideally, the simulation would have produced underdamping charactertics on the fo
 
 # 5. Presentation
 
+- please reference presentation for video presentation of the project.
+
 # 6. Results 
 
 Unfortunately, our project came to halut. We had continous errors with our matlab code we were unable to solve. The transisiton from matlab to Coppellia gave the group trouble. If our errors and matlab had been deteremined, we believe our control system would have been successful. The errors specified is displayed in the image below.

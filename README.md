@@ -83,3 +83,7 @@ Although errors were experienced, the matlab code sucesfully determines poles, d
 
 
 # 7. References 
+
+The following list below shows all references that influenced a variety of aspects in our control system design project.
+
+Regular API reference. regular API reference. (n.d.). Retrieved May 9, 2022, from https://www. coppeliarobotics.com/helpFiles/en/apiFunctions.htm

@@ -89,3 +89,18 @@ The following list below shows all references that influenced a variety of aspec
 Regular API reference. regular API reference. (n.d.). Retrieved May 9, 2022, from https://www. coppeliarobotics.com/helpFiles/en/apiFunctions.htm
 
 Hernández-Guzmán Victor Manuel., & Silva-Ortigoza Ramón. (2019). Automatic control with experiments. Springer International Publishing.
+
+Wikipedia, Furuta Pendulum, Retrieved by Jan., 27, 2020 from
+https://en.wikipedia.org/wiki/Furuta_pendulum
+
+Quanser, Rotary Inverted Pendulum, Retrieved by Jan, 27, 2020 from
+https://www.quanser.com/products/rotary-inverted-pendulum/
+
+Control System Tutorials for MATLAB and Simulink, Retrieved by Jan, 27, 2020 from
+http://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling
+
+Kildare, R., Hansen E., Leon, E., PID Control of Furuta Pendulum, Control System Design Project Fall
+2019
+
+Pick and place application with Kuka KR16 Robot Using V-Rep, Retrieved from Internet, Jan 28, 2020
+https://www.youtube.com/watch?v=CVoV08T0Aqo

@@ -1,4 +1,4 @@
-# MECA-482-futura-pendulum
+# MECA-482-furuta-pendulum
 MECA 482 Final Project: Futura Pendulum
 
 

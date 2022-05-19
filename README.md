@@ -82,6 +82,7 @@ Although errors were experienced, the matlab code sucesfully determines poles, d
 
 ![image](https://user-images.githubusercontent.com/103209385/168522107-ad7da509-16d1-4dad-9f08-2d7d96e56b5f.png)
 
+![image](https://user-images.githubusercontent.com/103209385/169357676-0b6243ce-5465-4609-912a-0c258026b107.png)
 
 
 # 7. References 

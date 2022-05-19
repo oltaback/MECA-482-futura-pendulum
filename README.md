@@ -65,6 +65,9 @@ The figure below displays our simulink that coincides with our writen matlab cod
 The setup file matlab code is displayed in the image below.
 ![image](https://user-images.githubusercontent.com/103209385/169362050-927ab8b1-f36f-4abe-9090-c63d94cc791f.png)
 
+Further code allowing for accurate testing of the system is displayed in the image shown below.
+![image](https://user-images.githubusercontent.com/103209385/169362427-38c3c468-05e7-4142-9061-fe611a08953e.png)
+
 
 
 

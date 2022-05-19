@@ -65,7 +65,8 @@ Further code allowing for accurate testing of the system is displayed in the ima
 
 Ideally, the simulation would have produced underdamping charactertics on the follwoing graphs displayed below. The underdamping trends would have shown stabilization of our system, primarily of the vertical pendulum arm operating in the up-right positiion. The figures below show the pole map where the underdamping characteristics would be displayed if the Matlab code was correctly adapted to run the testing as it should have. Unfortunately, the errors experienced haluted the gorup from moving forward. Ideally, this code would have presented figures of an undamping graph. 
 
-![image](https://user-images.githubusercontent.com/103209385/167546674-69ce93a7-458b-4c5a-a206-a5f437cf4a68.png)
+![image](https://user-images.githubusercontent.com/103209385/169365442-b8b34a7b-9c50-4f74-888c-c13b4d0ffc2c.png)
+
 
 
 

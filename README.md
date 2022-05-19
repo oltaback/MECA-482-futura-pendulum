@@ -1,7 +1,7 @@
 # MECA-482-furuta-pendulum
 MECA 482 Final Project: Furuta Pendulum
 
-
+By: Oliver Taback, Nick Croda, Marek Codron, Jacob Rivett, Jose Zamano
 
 # Table of Contents
   1. Introduction
@@ -28,7 +28,7 @@ Project contains:
   - Coppelia: Physics simulation software that will simulate the control system working on theoretical hardware. Essentially verifying whether the control system functions properly 
 
 # 2. Control System Design 
-Primarily, operational and logical viewpoints are created to theoretically determine the placement of all components before physically building the model. These view points are widely used across control system architecture design. The operational view point essentially shows where and what happens within the system. The figure below describes the operational viewpoint for this control system architecture. In this viewpoint, two sensors are placed on each arm. One of the horizontally rotating arm, and one on the vertically rotating arm. The data taken from these axises of rotation is essential to the mathematical model. 
+Primarily, operational and logical viewpoints are created to theoritcally deteremine the placement of all components before physically building the model. These view points are widely used across control system archecture design. The operational view point essentially shows what happens, and were within the system this process occurs. The figure below describes the operational viewpoint for this control system archetecture. In this viewpoint, two sensors are placed on the each arm. One of the horizontally rotating arm, and one on the vertically rotating arm. The data taken from these axises of rotation is essential to the mathematical model. 
 
 ![Furuta Pendulum Operational View Points (2)](https://user-images.githubusercontent.com/103209385/168148443-cedd4c9c-813b-49d3-a2b3-9fe3d36d0f1d.jpg) 
 

@@ -16,7 +16,7 @@ The Furuta Pendulum consists of a driven arm rotating horizontally, and a pendul
 
 The goal of this project is to produce a control system that will balance the pendulum arm in the upright position during the testing phase. A motor placed on the base piece of the pendulum possesses the ability to direct movement. Keeping these variables in consideration, the control system will essentially force the vertical pendulum arm to balance. 
 
-![Furuta](https://user-images.githubusercontent.com/92506151/169388293-5175ea3c-49be-4856-b323-c1949fe7e07f.jpg)
+![Furuta](https://user-images.githubusercontent.com/92506151/169388442-3bdb163d-f34c-4871-b16f-936ecf6e4834.jpg)
 
 
 Deliverables: 
